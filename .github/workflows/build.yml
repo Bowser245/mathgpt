@@ -1,4 +1,4 @@
-name: Build Untardle Executables
+name: Build mathgpt Executables
 
 on:
   push:
